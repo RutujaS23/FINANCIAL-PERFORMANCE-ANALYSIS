@@ -1,0 +1,5 @@
+region,total_revenue,gross_profit,total_expenses,net_profit
+East,208650.0,49650.0,51500,-1850.0
+North,413500.0,101500.0,57500,44000.0
+South,281200.0,82700.0,54000,28700.0
+West,439800.0,68800.0,77000,-8200.0
